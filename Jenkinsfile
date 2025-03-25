@@ -17,7 +17,7 @@ pipeline
         sh "javac write.java"
       }
     }
-    stage("run"}
+    stage("run")
           {
             steps
             {
